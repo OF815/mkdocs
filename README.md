@@ -6,26 +6,26 @@
 [![Build Status][GHAction-image]][GHAction-link]
 [![Coverage Status][codecov-image]][codecov-link]
 
-MkDocs is a **fast**, **simple** and **downright gorgeous** static site
-generator that's geared towards building project documentation. Documentation
-source files are written in Markdown, and configured with a single YAML
-configuration file. It is designed to be easy to use and can be extended with
-third-party themes, plugins, and Markdown extensions.
+MkDocs <ruby>is a **fast**, **simple** and **downright gorgeous**<rt>は速くて、質素で、じつにゴージャスな</rt></ruby> <ruby>static site
+generator <rt>静的サイト生成器です</rt></ruby> that's geared towards building project documentation. Documentation
+source files <ruby>are written in Markdown<rt>マークダウンで書かれる</rt></ruby>, and <ruby>configured with a single YAML
+configuration file<rt>一つのYAML設定ファイルで構成されます</rt></ruby>. It is designed to be easy to use and can <ruby>be extended with
+third-party themes, plugins, and Markdown extensions<rt>サードパーティテーマ、プラグイン、マークダウン拡張によって拡張される</rt></ruby>.
 
 Please see the [Documentation][mkdocs] for an introductory tutorial and a full
 user guide.
 
-## Features
+## <ruby>Features<rt>機能</rt></ruby>
 
-- Build static HTML files from Markdown files.
-- Use Plugins and Markdown Extensions to enhance MkDocs.
+- <ruby>Build static HTML files<rt>静的HTMLファイル郡を生成する<rt></ruby> from Markdown files.
+- Use Plugins and Markdown Extensions <ruby>to enhance<rt>強化するために</rt></ruby> MkDocs.
 - Use the built-in themes, third party themes or create your own.
 - Publish your documentation anywhere that static files can be served.
 - Much more!
 
 ## Support
 
-If you need help with MkDocs, do not hesitate to get in contact with us!
+If you need help with MkDocs, <ruby>do not hesitate<rt>躊躇しないこと</rt></ruby> to get in contact with us!
 
 -   For questions and high-level discussions, use **[Discussions]** on GitHub.
     -   For small questions, a good alternative is the **[Chat room]** on
@@ -33,10 +33,10 @@ If you need help with MkDocs, do not hesitate to get in contact with us!
 -   To report a bug or make a feature request, open an **[Issue]** on GitHub.
 
 Please note that we may only provide
-support for problems/questions regarding core features of MkDocs. Any
-questions or bug reports about features of third-party themes, plugins,
+support for problems/questions <ruby>regarding core features<rt>主機能について</rt></ruby> of MkDocs. <ruby>Any
+questions or bug reports<rt>すべての質問やバグ報告<rt></ruby> about features of third-party themes, plugins,
 extensions or similar should be made to their respective projects.  
-But, such questions are *not* banned from the [chat room].
+<ruby>But, such questions are *not* banned<rt>しかし、そんな質問はバンされません</rt></ruby> from the [chat room].
 
 Make sure to stick around to answer some questions as well!
 
